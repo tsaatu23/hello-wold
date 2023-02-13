@@ -1,3 +1,3 @@
-# hello-wold
+# hello-world
 first try 
-# H1
+# **trying something new** 
